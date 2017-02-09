@@ -1,0 +1,57 @@
+#header {
+    background-color: white;
+    margin-right: 110px;
+    margin-left: 110px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bolder;
+    color: blue;
+    
+    letter-spacing: 3pt;
+    text-align: center;
+    height: 50px;
+}
+ul#menu {
+    padding: 50px 50px 50px 140px;
+}
+
+ul#menu li {
+    display: inline;
+    padding: 20px;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 50px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: blue;
+}
+#HeaderPic {
+	background-image: url(bg1.jpg);
+	background-repeat: repeat;
+	margin-right: 110px;
+	margin-left: 110px;
+	height: 250px;
+}
+#content {
+    margin-right: 110px;
+    margin-left: 110px;
+    background-color: #FCF;
+    text-align: justify;
+    font-size: 18px;
+}
+#footer {
+    font-family: "MS Serif", "New York", serif;
+    color: white;
+    margin-right: 110px;
+    margin-left: 110px;
+    padding: 5px;
+    background-color: #000;
+    text-align: center;
+}
